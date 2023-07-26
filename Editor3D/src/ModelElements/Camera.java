@@ -1,16 +1,15 @@
 package ModelElements;
 
-import java.util.List;
+import Stuff.Angle3D;
+import Stuff.Point3D;
 
 public class Camera {
-  Point3D location;
-  Angle3d angle;
+  public Point3D location;
+  public Angle3D angle;
 
-  public void Rotate(Angle3D){
-
+  public void rotate(Angle3D angle){
   }
 
-  public void Move(Point3D){
-    
+  public void move(Point3D point){
   }
 }
