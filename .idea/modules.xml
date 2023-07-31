@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Arch3294.iml" filepath="$PROJECT_DIR$/.idea/Arch3294.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarApp/CarApp.iml" filepath="$PROJECT_DIR$/CarApp/CarApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Editor3D/Editor3D.iml" filepath="$PROJECT_DIR$/Editor3D/Editor3D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RewFabric/RewFabric.iml" filepath="$PROJECT_DIR$/RewFabric/RewFabric.iml" />
+    </modules>
+  </component>
+</project>
