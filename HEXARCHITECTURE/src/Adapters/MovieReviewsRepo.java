@@ -1,7 +1,5 @@
 package Adapters;
 
-
-
 import java.util.*;
 
 import Domain.MovieReview;

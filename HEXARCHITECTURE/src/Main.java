@@ -25,6 +25,5 @@ public class Main {
 
         System.out.println("Displaying reviews for movie " + starWarsRequest.getMovieName());
         movieUser.processInput(starWarsRequest);
-
     }
 }
