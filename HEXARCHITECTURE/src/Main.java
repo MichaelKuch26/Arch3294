@@ -7,7 +7,7 @@ import Ports.IFetchMovieReviews;
 import Ports.IPrintMovieReviews;
 import Ports.IUserInput;
 
-public class App {
+public class Main {
     public static void main(String[] args) throws Exception {
 
         IFetchMovieReviews fetchMovieReviews = new MovieReviewsRepo();
